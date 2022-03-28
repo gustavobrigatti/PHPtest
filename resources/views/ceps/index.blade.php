@@ -10,7 +10,7 @@
         });
         function clickButton() {
             var cep = document.getElementById('cep').value;
-            $.post('/ceps/buscaCep', {cep}, function (data) {
+            $.post('ceps/buscaCep', {cep}, function (data) {
                 if (!data.erro){
                     $("#text-cep").html(data.endereco.cep);
                     $("#text-logradouro").html(data.endereco.logradouro);

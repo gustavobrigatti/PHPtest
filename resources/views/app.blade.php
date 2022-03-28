@@ -96,7 +96,7 @@
 
             <div class="">
                 <div class="main-menu-header">
-                    <img class="img-radius" src="/images/eu.jpg" alt="User-Profile-Image">
+                    <img class="img-radius" src="images/eu.jpg" alt="User-Profile-Image">
                     <a href="https://www.linkedin.com/in/gustavo-rosolen-brigatti/" class="user-details tresPontos" target="_blank">
                         Gustavo Rosolen Brigatti
                     </a>
